@@ -1,0 +1,23 @@
+20 18:22:21 | INFO | [ACTION] CLOSE | reason=bbw
+20 18:22:22 | INFO | [EXECUTION] action=close | side=Buy | qty=2.6 | price=0.21151
+20 18:22:22 | INFO | [ACCOUNTING] CLOSE | levels=[0.21337000, 2.6]
+20 18:22:22 | INFO | [ACTION] OPEN | reason=REARM
+20 18:22:23 | INFO | [LIMIT] order placed | side=Sell | qty=2.6 | price=0.21142
+20 18:22:25 | INFO | [EXECUTION] action=open | side=Sell | qty=2.6 | price=0.21142
+20 18:22:25 | INFO | [ACCOUNTING] OPEN | qty=2.6 | price=0.21142 | stack=9
+
+20 18:37:32 | INFO | [ACTION] CLOSE | reason=bbw
+20 18:37:32 | INFO | [EXECUTION] action=close | side=Buy | qty=2.6 | price=0.20947
+20 18:37:32 | INFO | [ACCOUNTING] CLOSE | levels=[0.21142000, 2.6]
+20 18:37:32 | INFO | [ACTION] OPEN | reason=REARM
+20 18:37:33 | INFO | [LIMIT] order placed | side=Sell | qty=2.6 | price=0.20939
+20 18:37:33 | INFO | [EXECUTION] action=open | side=Sell | qty=2.6 | price=0.20945
+20 18:37:33 | INFO | [ACCOUNTING] OPEN | qty=2.6 | price=0.20945 | stack=9
+
+20 18:38:29 | INFO | [ACTION] CLOSE | reason=bbw
+20 18:38:30 | INFO | [EXECUTION] action=close | side=Buy | qty=2.6 | price=0.20879
+20 18:38:30 | INFO | [ACCOUNTING] CLOSE | levels=[0.20945000, 2.6]
+20 18:38:30 | INFO | [ACTION] OPEN | reason=REARM
+20 18:38:30 | INFO | [LIMIT] order placed | side=Sell | qty=2.6 | price=0.20870
+20 18:38:31 | INFO | [EXECUTION] action=open | side=Sell | qty=2.6 | price=0.20871
+20 18:38:31 | INFO | [ACCOUNTING] OPEN | qty=2.6 | price=0.20871 | stack=9
